@@ -8,7 +8,7 @@ Este repositório contém o projeto que construiremos juntos em nossa oficina no
 
 Este projeto foi pensado para ser um ponto de partida claro e visualmente impactante. Ao final da nossa oficina, você não apenas terá esta página pronta, mas entenderá os blocos de construção fundamentais da web e estará capacitado(a) a personalizar e expandir seu próprio espaço digital.
 
-![Prévia do Projeto](https://prnt.sc/anZgXbHqsBIO)
+[![Prévia do Projeto](https://prnt.sc/anZgXbHqsBIO)](https://prnt.sc/anZgXbHqsBIO)
 
 ---
 
@@ -55,3 +55,8 @@ Vamos quebrar um dos nossos "cards" de projeto para entender como HTML e CSS tra
     <p style="color:#aaa; font-size:14px;">Selecionado entre os 12 melhores na ProjWeek. Projeto com Python, HTML, ML do Facebook e Google Cloud.</p>
 
 </div>
+```
+
+---
+
+<p align="right"><sub>feito por: <a href="https://www.victordeveloper.com" target="_blank">www.victordeveloper.com</a></sub></p>
