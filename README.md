@@ -3,9 +3,13 @@
 ## Construindo um Portfólio Digital do Zero (24/06/2025)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Oficina-24/06/2025-informational?style=for-the-badge" alt="Data da Oficina"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/CSS%20Grid-2965f1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Grid"/>
+    <img src="https://img.shields.io/badge/Flexbox-44a8b3?style=for-the-badge&logo=css3&logoColor=white" alt="Flexbox"/>
+    <img src="https://img.shields.io/badge/Responsivo-Adaptável-28a745?style=for-the-badge" alt="Layout Responsivo"/>
+    <img src="https://img.shields.io/badge/Oficina-24/06/2025-informational?style=for-the-badge" alt="Data da Oficina"/>
 </p>
 Sejam muito bem-vindos, educadores!
 
